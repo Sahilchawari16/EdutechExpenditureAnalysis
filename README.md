@@ -33,8 +33,8 @@ This project analyzes government expenditures by states for the year 2016. The d
 
 
 
-![Screenshot 2024-09-12 001429](https://github.com/user-attachments/assets/ec5a56c1-c6c4-4b88-ac7f-635f4a5c670d)
-![Screenshot 2024-09-12 001444](https://github.com/user-attachments/assets/be349484-2624-4e27-91df-0c099e460b67)
+![Screenshot 2024-09-12 001429](https://github.com/user-attachm![Screenshot 2024-09-12 003228](https://github.com/user-attachments/assets/b7b61687-b656-4cf4-8497-350abafe4758)
+ents/assets/ec5a56c1-c6c4-4b88-ac7f-635f4a5c670d)
 ![Screenshot 2024-09-12 001644](https://github.com/user-attachments/assets/259d452e-03fe-4917-9bab-ef0d84d8646b)
 ![Screenshot 2024-09-12 001632](https://github.com/user-attachments/assets/b83bdbb8-4f38-427d-804d-4cafbb9bcaa9)
 ![Screenshot 2024-09-12 001618](https://github.com/user-attachments/assets/d97d0ea8-9dad-4202-bd01-126ceb54b808)
