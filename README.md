@@ -1,4 +1,4 @@
-# Government Expenditures by States (2016)
+# Government Education Expenditures by States (2016)
 
 ## Project Overview
 This project analyzes government expenditures by states for the year 2016. The data was collected from a PDF file, cleaned, structured, and then visualized using Qlik Sense. The project aims to provide insights into the expenditure patterns across different states.
