@@ -33,10 +33,12 @@ This project analyzes government expenditures by states for the year 2016. The d
 
 
 
-![Screenshot 2024-09-12 001429](https://github.com/user-attachm![Screenshot 2024-09-12 003228](https://github.com/user-attachments/assets/b7b61687-b656-4cf4-8497-350abafe4758)
-ents/assets/ec5a56c1-c6c4-4b88-ac7f-635f4a5c670d)
-![Screenshot 2024-09-12 001644](https://github.com/user-attachments/assets/259d452e-03fe-4917-9bab-ef0d84d8646b)
-![Screenshot 2024-09-12 001632](https://github.com/user-attachments/assets/b83bdbb8-4f38-427d-804d-4cafbb9bcaa9)
-![Screenshot 2024-09-12 001618](https://github.com/user-attachments/assets/d97d0ea8-9dad-4202-bd01-126ceb54b808)
-![Screenshot 2024-09-12 001544](https://github.com/user-attachments/assets/fd115dc6-faa6-48bc-aae4-de208a385f90)
-![Screenshot 2024-09-12 001528](https://github.com/user-attachments/assets/f54bfc01-83e6-4ce4-b56f-1f64a33ccdd6)
+
+![Screenshot 2024-09-12 003228](https://github.com/user-attachments/assets/9d69ddd6-71d7-4c57-807b-f7dd2724b969)
+![Screenshot 2024-09-12 001644](https://github.com/user-attachments/assets/b986ee53-0672-42d0-9175-c4ee60073e51)
+![Screenshot 2024-09-12 001632](https://github.com/user-attachments/assets/2869b0cd-a914-4398-8401-4b14a791fefb)
+![Screenshot 2024-09-12 001618](https://github.com/user-attachments/assets/39ce8b46-c68a-45cb-b18d-8fbeb385d937)
+![Screenshot 2024-09-12 001558](https://github.com/user-attachments/assets/1f4e7d98-d1cc-4304-98e7-a607cb7f45cf)
+![Screenshot 2024-09-12 001544](https://github.com/user-attachments/assets/0949b11f-60b0-4b27-8e83-2e6ad50cd294)
+![Screenshot 2024-09-12 001528](https://github.com/user-attachments/assets/155b648f-2d68-4647-a0bc-121172cf1379)
+![Screenshot 2024-09-12 001429](https://github.com/user-attachments/assets/3c193e2c-5b30-495b-85de-a5e034431599)
